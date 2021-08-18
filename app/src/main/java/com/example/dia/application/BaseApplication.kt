@@ -1,4 +1,4 @@
-package com.example.dia.application
+package com.example.swupreme.application
 
 import android.app.Activity
 import android.app.Application
@@ -8,8 +8,8 @@ import android.util.Log
 import android.widget.ImageView
 import androidx.appcompat.app.AppCompatDialog
 import androidx.fragment.app.Fragment
-import com.example.dia.R
-import com.example.dia.util.ProgressDialogFragment
+import com.example.swupreme.R
+import com.example.swupreme.util.ProgressDialogFragment
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
 import dagger.hilt.android.HiltAndroidApp
