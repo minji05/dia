@@ -1,4 +1,4 @@
-package com.example.dia.databinding
+package com.example.swupreme.databinding
 
 import android.util.Log
 import android.view.View
@@ -10,7 +10,7 @@ import androidx.core.content.ContentProviderCompat.requireContext
 import androidx.core.content.ContextCompat
 import androidx.databinding.BindingAdapter
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
-import com.example.dia.R
+import com.example.swupreme.R
 
 
 object BindingAdapter {
